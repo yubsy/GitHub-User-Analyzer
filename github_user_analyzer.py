@@ -36,11 +36,11 @@ def get_github_user_info():
         print(f"- Bio: {bio}")
         print(f"- Company: {company}")
         print(f"- Location: {location}")
-        print(f"- Repositories Public: {public_repos}")
+        print(f"- Public Repositories: {public_repos}")
         print(f"- Followers: {followers_count}")
         print(f"- Following: {following_count}")
 
-        print(f"\Followers of {username}:")
+        print(f"\nFollowers of {username}:")
         for follower in sorted(followers):
             print(f"- {follower}")
 
