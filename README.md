@@ -32,3 +32,8 @@ Follow these steps to set up and run the tool:
    ```bash
    git clone https://github.com/yubsy/github-user-analyzer.git
   ```
+
+
+```
+pip3 install requests
+```
