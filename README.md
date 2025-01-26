@@ -32,12 +32,8 @@ Follow these steps to set up and run the tool:
    ```bash
    git clone https://github.com/yubsy/github-user-analyzer.git
    pip3 install requests
-
-
-
-   ```
    python github_user_analyzer.py
    > USERNAME
 
-
-![image](https://github.com/user-attachments/assets/08459513-d5b7-431d-b944-77e2bd641e90)
+   
+  ![image](https://github.com/user-attachments/assets/08459513-d5b7-431d-b944-77e2bd641e90)
