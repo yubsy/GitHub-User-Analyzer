@@ -35,6 +35,6 @@ Follow these steps to set up and run the tool:
 
 
 
-```
-python github_user_analyzer.py
-> USERNAME
+  ```
+  python github_user_analyzer.py
+  > USERNAME
